@@ -1,0 +1,11 @@
+
+*.sln
+
+*.userprefs
+
+*.csproj
+
+MarkovChain/SAOL13_CLEAN.1.txt
+
+*/obj/*
+*/bin/*
